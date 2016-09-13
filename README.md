@@ -1,5 +1,5 @@
 # lazybible
-keyboard centric website for read the bible
+keyboard centric website for reading the bible
 
 # idea
 Use bible.com JSON response:
